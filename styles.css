@@ -1,0 +1,15 @@
+p {
+    background-color: blue;
+    color: navy;
+    border: 2px dashed solid black;
+}
+
+#P_class {
+    font-family: cursive;
+}
+
+.Title_id {
+    font-size: 16px;
+    border: 3pt dotted solid red;
+    color: #cc0000;
+}
